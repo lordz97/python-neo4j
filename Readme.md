@@ -44,4 +44,6 @@ GUI: A user-friendly interface to test arbitrary Cypher queries and view results
 Recommendation Engine: (Code included) Logic to suggest products based on collaborative filtering.
 
 👤 Author
+
 Harisson Zeufack - TU Clausthal
+
