@@ -27,15 +27,15 @@ Open Neo4j Browser and run the commands found in import_data.cypher block by blo
 2. Running the Application
    ```bash
    Open app.py.
-
+   ```
 Update the AUTH variable with your database password:
    ```python
    AUTH = ("neo4j", "your_super_password")
-
+   ```
 3. Run the script via your terminal/command prompt:
    ```bash
    python app.py
-
+   ```
 ## 📊 Features
 - Graph Modeling: Converts relational CSV tables into Nodes (:User, :Product, :Order) and Relationships.
 
@@ -48,6 +48,7 @@ Update the AUTH variable with your database password:
 ## 👤 Author
 
 Harisson Zeufack - TU Clausthal
+
 
 
 
