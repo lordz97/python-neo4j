@@ -1,7 +1,6 @@
 # Neo4j E-Commerce Analysis Tool 🛒
 
-This repository contains the solution for **Assignment 03 - Advanced Database Concepts**. 
-It demonstrates how to model an E-commerce dataset into a Graph Database (Neo4j) and interact with it using a Python GUI.
+This repository demonstrates how to model an E-commerce dataset into a Graph Database (Neo4j) and interact with it using a Python GUI.
 
 ## 📂 Project Structure
 
@@ -46,4 +45,5 @@ Recommendation Engine: (Code included) Logic to suggest products based on collab
 👤 Author
 
 Harisson Zeufack - TU Clausthal
+
 
