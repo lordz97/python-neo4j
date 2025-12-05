@@ -16,7 +16,7 @@ This repository demonstrates how to model an E-commerce dataset into a Graph Dat
    ```bash
    pip install neo4j
 
-🛠️ How to Setup
+## 🛠️ How to Setup
 1. Database Import
 Create a new database in Neo4j (e.g., assignment3).
 
@@ -33,17 +33,18 @@ AUTH = ("neo4j", "your_super_password")
 3. Run the script via your terminal/command prompt:
 python app.py
 
-📊 Features
-Graph Modeling: Converts relational CSV tables into Nodes (:User, :Product, :Order) and Relationships.
+##📊 Features
+- Graph Modeling: Converts relational CSV tables into Nodes (:User, :Product, :Order) and Relationships.
 
-Data Analysis: Includes a pre-loaded query to find loyal customers who bought the same product in multiple orders.
+- Data Analysis: Includes a pre-loaded query to find loyal customers who bought the same product in multiple orders.
 
-GUI: A user-friendly interface to test arbitrary Cypher queries and view results in JSON format.
+- GUI: A user-friendly interface to test arbitrary Cypher queries and view results in JSON format.
 
-Recommendation Engine: (Code included) Logic to suggest products based on collaborative filtering.
+- Recommendation Engine: (Code included) Logic to suggest products based on collaborative filtering.
 
 👤 Author
 
 Harisson Zeufack - TU Clausthal
+
 
 
