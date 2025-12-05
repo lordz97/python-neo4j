@@ -33,7 +33,7 @@ AUTH = ("neo4j", "your_super_password")
 3. Run the script via your terminal/command prompt:
 python app.py
 
-##📊 Features
+## 📊 Features
 - Graph Modeling: Converts relational CSV tables into Nodes (:User, :Product, :Order) and Relationships.
 
 - Data Analysis: Includes a pre-loaded query to find loyal customers who bought the same product in multiple orders.
@@ -42,9 +42,10 @@ python app.py
 
 - Recommendation Engine: (Code included) Logic to suggest products based on collaborative filtering.
 
-👤 Author
+## 👤 Author
 
 Harisson Zeufack - TU Clausthal
+
 
 
 
