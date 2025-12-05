@@ -25,13 +25,16 @@ Place the 6 CSV files (users.csv, products.csv, etc.) into the import folder of 
 Open Neo4j Browser and run the commands found in import_data.cypher block by block.
 
 2. Running the Application
-Open app.py.
+   ```bash
+   Open app.py.
 
-Update the AUTH variable with your database password:
-AUTH = ("neo4j", "your_super_password")
+   Update the AUTH variable with your database password:
+   ```bash
+   AUTH = ("neo4j", "your_super_password")
 
 3. Run the script via your terminal/command prompt:
-python app.py
+   ```bash
+   python app.py
 
 ## 📊 Features
 - Graph Modeling: Converts relational CSV tables into Nodes (:User, :Product, :Order) and Relationships.
@@ -45,6 +48,7 @@ python app.py
 ## 👤 Author
 
 Harisson Zeufack - TU Clausthal
+
 
 
 
