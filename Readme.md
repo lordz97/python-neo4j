@@ -29,7 +29,7 @@ Open Neo4j Browser and run the commands found in import_data.cypher block by blo
    Open app.py.
 
 Update the AUTH variable with your database password:
-   ```bash
+   ```python
    AUTH = ("neo4j", "your_super_password")
 
 3. Run the script via your terminal/command prompt:
@@ -48,6 +48,7 @@ Update the AUTH variable with your database password:
 ## 👤 Author
 
 Harisson Zeufack - TU Clausthal
+
 
 
 
